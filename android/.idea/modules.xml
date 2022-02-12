@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LikeMetric.iml" filepath="$PROJECT_DIR$/.idea/modules/LikeMetric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LikeMetric.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LikeMetric.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1046576805/LikeMetric.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1046576805/LikeMetric.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1016344287/LikeMetric.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1016344287/LikeMetric.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-275804347/LikeMetric.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-275804347/LikeMetric.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1326904417/LikeMetric.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/1326904417/LikeMetric.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1789622570/LikeMetric.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1789622570/LikeMetric.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1608558982/LikeMetric.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1608558982/LikeMetric.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1189002817/LikeMetric.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1189002817/LikeMetric.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2010182807/LikeMetric.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/2010182807/LikeMetric.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+com/likemetric/ReactNativeFlipper.java
+ com.likemetric.ReactNativeFlipper
+ com.likemetric.ReactNativeFlipper$1
+ com.likemetric.ReactNativeFlipper$2
+ com.likemetric.ReactNativeFlipper$2$1
+com/likemetric/MainApplication.java
+ com.likemetric.MainApplication
+ com.likemetric.MainApplication$1
+com/likemetric/BuildConfig.java
+ com.likemetric.BuildConfig
+com/likemetric/MainActivity.java
+ com.likemetric.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

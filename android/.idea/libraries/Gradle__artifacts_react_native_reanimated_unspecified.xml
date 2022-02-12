@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:react-native-reanimated:unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/46c2e9582a3971f564029d6163bc2324/transformed/jetified-react-native-reanimated-66-jsc/res" />
+      <root url="file://$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/daca7c7e33e3728d7bbdaeea79bdd1ee/transformed/jetified-react-native-reanimated-66-hermes/res" />
+      <root url="file://$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/96309e8c624581026decaa58b438f542/transformed/jetified-react-native-reanimated-66-hermes/res" />
+      <root url="file://$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/14fcb6a0d030c338e12dcd59652383b8/transformed/jetified-react-native-reanimated-66-hermes/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/14fcb6a0d030c338e12dcd59652383b8/transformed/jetified-react-native-reanimated-66-hermes/res" />
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/14fcb6a0d030c338e12dcd59652383b8/transformed/jetified-react-native-reanimated-66-hermes/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

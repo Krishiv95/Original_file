@@ -1,0 +1,6 @@
+module Pods_LikeMetric_LikeMetricTests {
+  umbrella header "Pods-LikeMetric-LikeMetricTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
